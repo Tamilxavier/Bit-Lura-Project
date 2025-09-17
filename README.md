@@ -1,4 +1,4 @@
-# Bit-Lura-Project
+# Figma|Project
 A responsive front-end website built with HTML, CSS, and assets.
 
 ## Features
